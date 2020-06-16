@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "https://www.dropbox.com/s/jwqsx1ap1q665rb/301a59d17969e0d88ae107a05bc3754d.jpeg?dl=1";
+var l_serverImage = "https://www.dropbox.com/s/irxhq86zkh6o18o/gay.png?dl=1";
 
 // Center logo?
 // 'true' or 'false'
